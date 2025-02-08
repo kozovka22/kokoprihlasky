@@ -1,20 +1,20 @@
 # ADMINISTRACE PŘIHLÁŠKOVÉHO SYSTÉMU
 
-## login
+## Login
 Pro login do Admin rozhraní využijte odkaz https://pratelebabinaplacku.cz/admin
 
 Zobrazí se login stránka. do kolonek vyplňte předem nasdílené přihlašovací údaje. Po úspěšném přihlášení budete přesměrování do rozhraní Sonata admin.
 
-## sonata admin
-### dashboard
+## Sonata admin
+### Dashboard
 První stránkou sonata admin je **Dashboard**. V hlavním okně se nachází karta Admin s položkou Přihláška a modrým textem list, skrze kterou se dostanete k výpisu všech odeslaných přihlášek.
 
-### list přihlášek
+### List přihlášek
 V seznamu se nachází nejzákladnější data. Pro zobrazení všech dat klikněte na tlačítko 'Show' v posledním sloupci 'Akce'.
 
 Chcete-li zapsat zaplacenou částku, nebo nastane problém s přihláškou (například rodič zapomene zaškrtnout sourozeneckou slevu, nebo dítě odhlásí) použijte tlačítko 'Edit' nacházející se vedle tlačítka 'Show'.
 
-### editace přihlášek
+### Editace přihlášek
 Na stránce 'Edit' se nachází 5 vstupů. 
 
 Vstup **'Zaplacená částka'** slouží pouze pro zjednodušení života, pokud se rodič bude dotazovat, kolik zbývá zaplatit. Rodič k němu během přihlašování nemá přístup.
@@ -28,7 +28,7 @@ Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto
 Vstup **'Odhlášen'** můžete využít pro jednoduché označení odhlášeného dítěte. Odhlášené a neodhlášené děti můžete v listu **vyfiltrovat**.
 
 Spodní dvě tlačítka přihlášku opšt uloží. Kdyby byly jiné problémy s daty, mohu vám buď připsat možnost editace do tohoto formuláře, nebo je mohu upravit natvrdo v databázi.
-### filtrování výsledků v listu
+### Filtrování výsledků v listu
 Chcete-li vyfiltrovat přihlášky dle některého z parametrů, využijte tlačítko Filters v pravém horním rohu v liště nad seznamem přihlášek.
 
 Po rozkliknutí se vám zobrazí spousta možností, dle kterých se dají přihlášky filtrovat. Nejvíce používanou bude nejspíše 'Odhlášen' a 'Přijmení'. Jako příklad použiji kolonku 'Odhlášen'.
