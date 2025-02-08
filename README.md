@@ -11,6 +11,7 @@ První stránkou sonata admin je **Dashboard**. V hlavním okně se nachází ka
 
 ### list přihlášek
 V seznamu se nachází nejzákladnější data. Pro zobrazení všech dat klikněte na tlačítko 'Show' v posledním sloupci 'Akce'.
+
 Chcete-li zapsat zaplacenou částku, nebo nastane problém s přihláškou (například rodič zapomene zaškrtnout sourozeneckou slevu, nebo dítě odhlásí) použijte tlačítko 'Edit' nacházející se vedle tlačítka 'Show'.
 
 ### editace přihlášek
@@ -35,4 +36,5 @@ Po rozkliknutí se vám zobrazí spousta možností, dle kterých se dají přih
 Po zakliknutí možnosti odhlášen se lišta rozšíří o select vstup s popiskem 'Odhlášen'. Kliknutím na tento vstup se rozbalí možnosti "yes" a "no". Na to, jak to přeložit, jsem se ani nepokoušela přijít, pardon.
 
 Chcete-li tedy zobrazit pouze neodhlášené, zakliknete zde "no" a **!!kliknete na 'Filter'!!**
+
 Pokud si přejete filtr zrušit, klikněte na tlačítko 'Reset' vedle tlačítka 'Filter'.
