@@ -25,7 +25,7 @@ Vstup **'Sourozenecká sleva'** slouží pro jednoduchou opravu přehlédnutí k
 
 Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto vstupu můžete připisovat vlastní poznámky, rodič je stejně jako zbytek těchto změn neuvidí.
 
-Vstup **'Odhlášen'** můžete využít pro jednoduché označení odhlášeného dítěte. Odhlášené a neodhlášené děti můžete v listu **vyfiltrovat**.
+Vstup **'Odhlášen'** můžete využít pro jednoduché označení odhlášeného dítěte. Odhlášené a neodhlášené děti můžete v listu **vyfiltrovat**. Přihlášky nad číslo 52 ukládám rovnou jako "Odhlášen".
 
 Spodní dvě tlačítka přihlášku opšt uloží. Kdyby byly jiné problémy s daty, mohu vám buď připsat možnost editace do tohoto formuláře, nebo je mohu upravit natvrdo v databázi.
 ### Filtrování výsledků v listu
