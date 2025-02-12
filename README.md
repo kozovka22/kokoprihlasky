@@ -33,9 +33,9 @@ Spodní dvě tlačítka přihlášku uloží. Kdyby byly jiné problémy s daty,
 ### Filtrování výsledků v seznamu 'list'
 Chcete-li vyfiltrovat přihlášky dle některého z parametrů, využijte tlačítko Filters v pravém horním rohu v liště nad seznamem přihlášek.
 
-Po rozkliknutí se vám zobrazí spousta možností, dle kterých se dají přihlášky filtrovat. Nejvíce používanou bude nejspíše 'Odhlášen' a 'Přijmení'. Jako příklad použiji kolonku 'Odhlášen'.
+Po rozkliknutí se vám zobrazí spousta možností, dle kterých se dají přihlášky filtrovat. Nejvíce používanou bude nejspíše 'Přihlášen' a 'Přijmení'. Jako příklad použiji kolonku 'Přihlášen'.
 
-Po zakliknutí možnosti odhlášen se lišta rozšíří o select vstup s popiskem 'Odhlášen'. Kliknutím na tento vstup se rozbalí možnosti "yes" a "no". Na to, jak to přeložit, jsem se ani nepokoušela přijít, pardon.
+Po zakliknutí možnosti odhlášen se lišta rozšíří o select vstup s popiskem 'Přihlášem'. Kliknutím na tento vstup se rozbalí možnosti "yes" a "no".
 
-Chcete-li tedy zobrazit pouze neodhlášené, zakliknete zde "no" a **!!kliknete na 'Filter'!!**
+Chcete-li tedy zobrazit pouze neodhlášené, zakliknete zde "Yes" a **!!kliknete na 'Filter'!!**
 Pokud si přejete filtr zrušit, klikněte na tlačítko 'Reset' vedle tlačítka 'Filter'.
