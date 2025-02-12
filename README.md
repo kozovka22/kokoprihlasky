@@ -25,7 +25,7 @@ Na stránce 'Edit' se nachází mnoho vstupů.
 
 - Vstup **'Sourozenecká sleva'** slouží pro jednoduchou opravu přehlédnutí kolonky rodičem. Rodičovi NENÍ automaticky zaslán e-mail, MUSÍ se tedy kontaktovat ručně!
 
-- Vstup **'Doprava'** slouží pro prevenci negramotnosti rodičů, kteří zakliknou možnost 'autobus' a pak napíší, že dítě přivezou o 64,985232 hodin později svým ufem poháněným destilovaným jarem smíchaným s mrazem sušenými malinami.
+- Vstup **'Doprava'** slouží pro prevenci negramotnosti rodičů, kteří zakliknou možnost 'autobus' a pak napíší, že dítě přivezou o 64,985232 hodin později svým ufem.
 
 - Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto vstupu můžete připisovat vlastní poznámky, rodič je stejně jako zbytek těchto změn neuvidí.
 
