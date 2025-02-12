@@ -19,17 +19,17 @@ V nejspodnější liště je tlačítko **'Export'**, které vám umožní stáh
 ### Editace přihlášek
 Na stránce 'Edit' se nachází mnoho vstupů. 
 
-Vstup **'Zaplacená částka'** slouží pouze pro zjednodušení života, pokud se rodič bude dotazovat, kolik zbývá zaplatit. Rodič k němu během přihlašování nemá přístup.
+- Vstup **'Zaplacená částka'** slouží pouze pro zjednodušení života, pokud se rodič bude dotazovat, kolik zbývá zaplatit. Rodič k němu během přihlašování nemá přístup.
 
-Vstup **'Zaplaceno'** slouží také jen pro zjednodušený přístup k informaci zaplatil/nezaplatil, jen na seznamu svítí buď výrazně zeleně, nebo výrazně červeně. Rodič k němu během přihlašování nemá přístup.
+- Vstup **'Zaplaceno'** slouží také jen pro zjednodušený přístup k informaci zaplatil/nezaplatil, jen na seznamu svítí buď výrazně zeleně, nebo výrazně červeně. Rodič k němu během přihlašování nemá přístup.
 
-Vstup **'Sourozenecká sleva'** slouží pro jednoduchou opravu přehlédnutí kolonky rodičem. Rodičovi NENÍ automaticky zaslán e-mail, MUSÍ se tedy kontaktovat ručně!
+- Vstup **'Sourozenecká sleva'** slouží pro jednoduchou opravu přehlédnutí kolonky rodičem. Rodičovi NENÍ automaticky zaslán e-mail, MUSÍ se tedy kontaktovat ručně!
 
-Vstup **'Doprava'** slouží pro prevenci negramotnosti rodičů, kteří zakliknou možnost 'autobus' a pak napíší, že dítě přivezou o 64,985232 hodin později svým ufem poháněným destilovaným jarem smíchaným s mrazem sušenými malinami.
+- Vstup **'Doprava'** slouží pro prevenci negramotnosti rodičů, kteří zakliknou možnost 'autobus' a pak napíší, že dítě přivezou o 64,985232 hodin později svým ufem poháněným destilovaným jarem smíchaným s mrazem sušenými malinami.
 
-Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto vstupu můžete připisovat vlastní poznámky, rodič je stejně jako zbytek těchto změn neuvidí.
+- Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto vstupu můžete připisovat vlastní poznámky, rodič je stejně jako zbytek těchto změn neuvidí.
 
-Vstup **'Přihlášen'** můžete využít pro jednoduché označení přihlášeného dítěte. Odhlášené a přihlášené děti můžete v listu **vyfiltrovat**.
+- Vstup **'Přihlášen'** můžete využít pro jednoduché označení přihlášeného dítěte. Odhlášené a přihlášené děti můžete v listu **vyfiltrovat**.
 
 Pokračování již brzy :-)
 
