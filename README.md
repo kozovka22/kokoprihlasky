@@ -11,7 +11,10 @@ První stránkou sonata admin je **Dashboard**. V hlavním okně se nachází ka
 ### List přihlášek
 V seznamu se nachází nejzákladnější data. Pro zobrazení všech dat klikněte na tlačítko 'Show' v posledním sloupci 'Akce'.
 Chcete-li zapsat zaplacenou částku, nebo nastane problém s přihláškou (například rodič zapomene zaškrtnout sourozeneckou slevu, nebo dítě odhlásí) použijte tlačítko 'Edit' nacházející se vedle tlačítka 'Show'.
+
 Zároveň se zde nachází tlačítko "odeslat potvrzení", které automaticky odešle e-mail rodiči a označí přihlášku za přihlášenou, pokud tak ještě označena není. Využití je hlavně pro případy, kdy rodič zapomene zakliknout sourozeneckou slevu a přeje si správný QR kód, nebo když se doplňuje obsazení táborníků z "pod čáry".
+
+V nejspodnější liště je tlačítko **'Export'**, které vám umožní stáhnout si všechna data z tabulky do formátů .csv, .json, .xls a .xml. Pro účely importu do Excelu doporučuji formát **XLS**.
 
 ### Editace přihlášek
 Na stránce 'Edit' se nachází 5 vstupů. 
