@@ -2,10 +2,10 @@
 ## Login
 Pro login do Admin rozhraní využijte odkaz https://pratelebabinaplacku.cz/admin
 
-Zobrazí se login stránka. do kolonek vyplňte předem nasdílené přihlašovací údaje. Po úspěšném přihlášení budete přesměrování do rozhraní Sonata admin.
+Zobrazí se login stránka. Do kolonek vyplňte předem nasdílené přihlašovací údaje. Po úspěšném přihlášení budete přesměrování do rozhraní Sonata admin.
 
 ## Sonata admin
-### dashboard
+### Dashboard
 První stránkou sonata admin je **Dashboard**. V hlavním okně se nachází karta Admin s položkou Přihláška a modrým textem list, skrze kterou se dostanete k výpisu všech odeslaných přihlášek.
 
 ### List přihlášek
