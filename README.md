@@ -1,4 +1,4 @@
-
+# ADMINISTRACE PŘIHLÁŠKOVÉHO SYSTÉMU
 ## Login
 Pro login do Admin rozhraní využijte odkaz https://pratelebabinaplacku.cz/admin
 
