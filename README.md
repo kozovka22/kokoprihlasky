@@ -25,9 +25,11 @@ Vstup **'Zaplaceno'** slouží také jen pro zjednodušený přístup k informac
 
 Vstup **'Sourozenecká sleva'** slouží pro jednoduchou opravu přehlédnutí kolonky rodičem. Rodičovi NENÍ automaticky zaslán e-mail, MUSÍ se tedy kontaktovat ručně!
 
+Vstup **'Doprava'** slouží pro prevenci rodičů, co zakliknou možnost 'autobus' a pak napíší, že dítě přivaezou o 64,985232 hodin později.
+
 Vstup **'Poznámky'** je během přihlašování vyplněn rodičem. Vy do tohoto vstupu můžete připisovat vlastní poznámky, rodič je stejně jako zbytek těchto změn neuvidí.
 
-Vstup **'Odhlášen'** můžete využít pro jednoduché označení odhlášeného dítěte. Odhlášené a neodhlášené děti můžete v listu **vyfiltrovat**.
+Vstup **'Přihlášen'** můžete využít pro jednoduché označení přihlášeného dítěte. Odhlášené a přihlášené děti můžete v listu **vyfiltrovat**.
 
 Spodní dvě tlačítka přihlášku uloží. Kdyby byly jiné problémy s daty, mohu vám buď připsat možnost editace do tohoto formuláře, nebo je mohu upravit natvrdo v databázi.
 ### Filtrování výsledků v seznamu 'list'
