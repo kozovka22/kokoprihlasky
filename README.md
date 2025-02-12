@@ -40,7 +40,7 @@ Chcete-li vyfiltrovat přihlášky dle některého z parametrů, využijte tlač
 
 Po rozkliknutí se vám zobrazí spousta možností, dle kterých se dají přihlášky filtrovat. Nejvíce používanou bude nejspíše 'Přihlášen' a 'Přijmení'. Jako příklad použiji kolonku 'Přihlášen'.
 
-Po zakliknutí možnosti odhlášen se lišta rozšíří o select vstup s popiskem 'Přihlášem'. Kliknutím na tento vstup se rozbalí možnosti "yes" a "no".
+Po zakliknutí možnosti odhlášen se lišta rozšíří o select vstup s popiskem 'Přihlášen'. Kliknutím na tento vstup se rozbalí možnosti "Yes" a "No".
 
 Chcete-li tedy zobrazit pouze neodhlášené, zakliknete zde "Yes" a **!!kliknete na 'Filter'!!**
 Pokud si přejete filtr zrušit, klikněte na tlačítko 'Reset' vedle tlačítka 'Filter'.
